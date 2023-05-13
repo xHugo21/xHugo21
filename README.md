@@ -12,7 +12,7 @@
 </div>
 
 ### Hi there 👋
-My name is Hugo. I am currently finishing my Computer Engineering degree and working as an intern at [Empathy.co](empathy.co)
+My name is Hugo. I am currently finishing my Computer Engineering degree and working as an intern at [Empathy.co](https://empathy.co/)
 
 <!--
 **xHugo21/xHugo21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
