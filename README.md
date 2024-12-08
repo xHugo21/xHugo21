@@ -11,6 +11,7 @@
 <div id="about-me" align="center">
     <h2 align="center">Hi there 👋</h2>
     <p>My name is <b>Hugo</b>. I am currently working as a Frontend Developer at <a href="https://empathy.co/" target="_blank">Empathy.co</a></p>
+    <p>Take a look at my portfolio <a href="https://xhugo21.github.io/portfolio/" target="_blank">here</a></p>
 </div>
 
 <div id="stats" align="center">
